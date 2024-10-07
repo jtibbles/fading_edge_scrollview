@@ -1,6 +1,6 @@
 name: fading_edge_scrollview
-description: Package providing FadingEdgeScrollView which allows you to build scrollable views with fading edges
-version: 4.1.1
+description: Package providing FadingEdgeScrollView which allows you to build scrollable views with fading edges - edited version to fix null safety issue
+version: 4.1.2
 homepage: https://github.com/mponkin/fading_edge_scrollview
 
 environment:
